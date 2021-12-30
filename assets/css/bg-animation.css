@@ -1,0 +1,8 @@
+@keyframes bg-ani {
+    from {
+        background: linear-gradient(120deg, #3AA17E 10%, #00537E 90%);
+    }
+    to {
+        background: linear-gradient(300deg, #3AA17E 10%, #00537E 90%);
+    }
+}
